@@ -67,4 +67,7 @@
       <Filter>Generated Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\实现方案.docx" />
+  </ItemGroup>
 </Project>

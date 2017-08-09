@@ -1,0 +1,36 @@
+﻿生成启动时间为 2017/8/9 19:57:35。
+     1>项目“D:\project\WideLibrary\WideLibrary\WideLibrary.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\WideLibrary.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ComputeCustomBuildOutput:
+         正在创建目录“D:\project\WideLibrary\WideLibrary\GeneratedFiles\Debug\”。
+       CustomBuild:
+         Moc'ing widelibrary.h...
+         Uic'ing widelibrary.ui...
+         Rcc'ing widelibrary.qrc...
+     1>RCC : warning : No resources in 'D:\project\WideLibrary\WideLibrary\widelibrary.qrc'.
+         
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /IC:\Qt\4.8.6\include /I.\GeneratedFiles\Debug /IC:\Qt\4.8.6\include\qtmain /IC:\Qt\4.8.6\include\QtCore /IC:\Qt\4.8.6\include\QtGui /I.\ /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_widelibrary.cpp main.cpp widelibrary.cpp
+         moc_widelibrary.cpp
+         main.cpp
+         widelibrary.cpp
+         正在生成代码...
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /IC:\Qt\4.8.6\include /I.\GeneratedFiles\Debug /IC:\Qt\4.8.6\include\qtmain /IC:\Qt\4.8.6\include\QtCore /IC:\Qt\4.8.6\include\QtGui /I.\ /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_widelibrary.cpp
+         qrc_widelibrary.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\project\WideLibrary\WideLibrary\\WideLibrary.exe" /NOLOGO /LIBPATH:C:\Qt\4.8.6\lib qtmaind.lib QtCored4.lib QtGuid4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\WideLibrary.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\project\WideLibrary\WideLibrary\WideLibrary.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\project\WideLibrary\WideLibrary\WideLibrary.lib" /MACHINE:X86 Debug\moc_widelibrary.obj
+         Debug\qrc_widelibrary.obj
+         Debug\main.obj
+         Debug\widelibrary.obj
+         WideLibrary.vcxproj -> D:\project\WideLibrary\WideLibrary\WideLibrary.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\project\WideLibrary\WideLibrary\\WideLibrary.exe;#1" /manifest Debug\WideLibrary.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\WideLibrary.unsuccessfulbuild”。
+         正在对“Debug\WideLibrary.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\project\WideLibrary\WideLibrary\WideLibrary.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.94
